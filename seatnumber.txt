@@ -1,0 +1,1 @@
+This file contains seat number to be reserved for the passenger
