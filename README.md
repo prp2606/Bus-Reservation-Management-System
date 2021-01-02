@@ -1,2 +1,3 @@
 # Bus-Reservation-Management-System
-This is the bus reservation management system 
+
+This project is built on concepts of FILE HANDLING in C++. 
